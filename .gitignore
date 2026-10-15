@@ -1,0 +1,12 @@
+# Secret Firebase credentials - NEVER commit these
+serviceAccountKey.json
+*.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor
+.vscode/
